@@ -3,7 +3,7 @@
 #data.headers
 #helo.checks
 auth/flat_file
-# tls
+tls
 #mail_from.is_resolvable
 #max_unrecognized_commands
 # rcpt_to.in_host_list
