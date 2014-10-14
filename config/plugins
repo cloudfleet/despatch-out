@@ -1,10 +1,10 @@
-access
-dnsbl
-data.headers
-helo.checks
+#access
+#dnsbl
+#data.headers
+#helo.checks
 auth/flat_file
 # tls
-mail_from.is_resolvable
-max_unrecognized_commands
+#mail_from.is_resolvable
+#max_unrecognized_commands
 # rcpt_to.in_host_list
 queue/smtp_proxy
