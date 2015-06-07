@@ -7,4 +7,4 @@ tls
 #mail_from.is_resolvable
 #max_unrecognized_commands
 # rcpt_to.in_host_list
-queue/smtp_proxy
+queue/smtp_forward
